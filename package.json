@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "praharsha",
+  "author": "Rahul Yavvari & Saipraharsha Vemula",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
